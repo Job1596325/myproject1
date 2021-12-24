@@ -1,0 +1,373 @@
+# 这个 viminfo 文件是由 Vim 8.1 所产生。
+# 如果想要自行修改请特别小心！
+
+# Viminfo version
+|1,4
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最后替换的字符串
+$
+
+# 命令行 历史记录 (从新到旧)：
+:wq
+|2,0,1640256265,,"wq"
+:wq!
+|2,0,1640249330,,"wq!"
+:q!
+|2,0,1640248953,,"q!"
+:q
+|2,0,1640168217,,"q"
+:w! sudo tee%
+|2,0,1640161959,,"w! sudo tee%"
+:!q
+|2,0,1640161340,,"!q"
+
+# 查找字符串 历史记录 (从新到旧)：
+? @$
+|2,1,1640226202,,"@$"
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# Debug Line 历史记录 (从新到旧)：
+
+# 寄存器:
+""0	CHAR	0
+	s
+|3,1,0,0,1,0,1640226202,"s"
+"-	CHAR	0
+	s
+|3,0,36,0,1,0,1640161606,"s"
+
+# 文件标记:
+'0  1  22  /home/test/git_test/test/text.txt
+|4,48,1,22,1640256265,"/home/test/git_test/test/text.txt"
+'1  1  6  /home/test/git_test/test/text.txt
+|4,49,1,6,1640255679,"/home/test/git_test/test/text.txt"
+'2  2  7  /home/test/git_test/test/text.txt
+|4,50,2,7,1640255596,"/home/test/git_test/test/text.txt"
+'3  2  7  /home/test/git_test/test/text.txt
+|4,51,2,7,1640255596,"/home/test/git_test/test/text.txt"
+'4  2  7  /home/test/git_test/test/text.txt
+|4,52,2,7,1640255596,"/home/test/git_test/test/text.txt"
+'5  2  7  /home/test/git_test/test/text.txt
+|4,53,2,7,1640255596,"/home/test/git_test/test/text.txt"
+'6  2  7  /home/test/git_test/test/text.txt
+|4,54,2,7,1640255391,"/home/test/git_test/test/text.txt"
+'7  2  7  /home/test/git_test/test/text.txt
+|4,55,2,7,1640255391,"/home/test/git_test/test/text.txt"
+'8  2  7  /home/test/git_test/test/text.txt
+|4,56,2,7,1640255391,"/home/test/git_test/test/text.txt"
+'9  2  7  /home/test/git_test/test/text.txt
+|4,57,2,7,1640255391,"/home/test/git_test/test/text.txt"
+
+# 跳转列表 (从新到旧):
+-'  1  22  /home/test/git_test/test/text.txt
+|4,39,1,22,1640256265,"/home/test/git_test/test/text.txt"
+-'  1  6  /home/test/git_test/test/text.txt
+|4,39,1,6,1640255679,"/home/test/git_test/test/text.txt"
+-'  2  7  /home/test/git_test/test/text.txt
+|4,39,2,7,1640255596,"/home/test/git_test/test/text.txt"
+-'  2  7  /home/test/git_test/test/text.txt
+|4,39,2,7,1640255596,"/home/test/git_test/test/text.txt"
+-'  2  7  /home/test/git_test/test/text.txt
+|4,39,2,7,1640255596,"/home/test/git_test/test/text.txt"
+-'  1  0  /home/test/git_test/test/text.txt
+|4,39,1,0,1640255575,"/home/test/git_test/test/text.txt"
+-'  2  7  /home/test/git_test/test/text.txt
+|4,39,2,7,1640255391,"/home/test/git_test/test/text.txt"
+-'  1  9  /home/test/git_test/test/text.txt
+|4,39,1,9,1640255369,"/home/test/git_test/test/text.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  5  5  /home/test/git_test/test/t3.txt
+|4,39,5,5,1640254713,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  1  0  /home/test/git_test/test/t3.txt
+|4,39,1,0,1640254700,"/home/test/git_test/test/t3.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  4  4  /home/test/git_test/test/t2.txt
+|4,39,4,4,1640254692,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+-'  1  0  /home/test/git_test/test/t2.txt
+|4,39,1,0,1640254682,"/home/test/git_test/test/t2.txt"
+
+# 文件内的标记历史记录 (从新到旧):
+
+> /home/test/git_test/test/text.txt
+	*	1640256262	0
+	"	1	22
+	^	1	23
+	.	1	22
+	+	1	10
+	+	2	7
+	+	1	22
+
+> /home/test/git_test/test/t3.txt
+	*	1640254710	0
+	"	5	5
+	^	5	6
+	.	5	5
+	+	5	5
+
+> /home/test/git_test/test/t2.txt
+	*	1640254689	0
+	"	4	4
+	^	4	5
+	.	4	4
+	+	1	10
+	+	2	10
+	+	4	4
+
+> /home/test/git_test/test/t1.txt
+	*	1640254672	0
+	"	4	7
+	^	4	8
+	.	4	7
+	+	4	7
+
+> /etc/dhcp/dhcpd.conf
+	*	1640249326	0
+	"	45	0
+	^	45	0
+	.	39	25
+	+	11	0
+	+	38	0
+	+	39	0
+	+	40	0
+	+	41	0
+	+	38	16
+	+	39	17
+	+	38	40
+	+	39	25
+
+> /etc/default/isc-dhcp-server
+	*	1640248981	0
+	"	17	0
+	^	17	19
+	.	17	18
+	+	17	18
+
+> /etc/ntp.conf
+	*	1640247357	0
+	"	56	0
+	^	56	0
+	.	39	0
+	+	38	0
+	+	39	0
+
+> /etc/docker/daemon.json
+	*	1640245532	0
+	"	4	0
+	^	4	0
+	.	3	2
+	+	3	2
+
+> /etc/apt/sources.list
+	*	1640241769	0
+	"	30	0
+	^	30	0
+	.	30	0
+	+	30	0
+
+> /etc/vsftpd.conf
+	*	1640227039	0
+	"	24	0
+	^	24	28
+	.	24	27
+	+	46	0
+	+	42	0
+	+	24	27
+
+> /etc/xinetd.d/tftp
+	*	1640168209	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	9	1
+	+	1	43
+	+	11	1
+	+	1	0
+	+	1	1
+	+	11	1
+	+	1	43
+	+	13	1
+	+	2	0
+	+	13	0
